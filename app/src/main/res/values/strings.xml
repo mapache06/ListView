@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="encabezado">Alumnos</string>
+    <string name="texto">item</string>
+</resources>
